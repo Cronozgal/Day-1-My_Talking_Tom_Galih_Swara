@@ -1,6 +1,6 @@
 # Catatan Workshop: Building with AI & Managing Change with GitHub
 
-Disusun oleh: **Hanif Nurliawan**
+Disusun oleh: **Galih Swara**
 
 ---
 
